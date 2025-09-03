@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "safe-seat-dev"
+    "dev": "safe-seat-dev",
+    "prod": "safe-seat-e9cc7"
   }
 }
