@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "2DGKXCL388.com.safeseat.io",
+          "2DGKXCL388.com.safeseat.io.Clip"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "2DGKXCL388.com.safeseat.io.Clip"
+    ]
+  }
+}
